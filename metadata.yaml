@@ -1,0 +1,42 @@
+_repo: Tolstoi_74412
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Bournac, Olivier
+    gutenberg_agent_id: '57494'
+    url: http://www.gutenberg.org/2009/agents/57494
+  - agent_name: Hella, Alzir
+    gutenberg_agent_id: '57493'
+    url: http://www.gutenberg.org/2009/agents/57493
+creator:
+  author:
+    agent_name: Zweig, Stefan
+    alias: Branch, Stephen
+    birthdate: 1881
+    deathdate: 1942
+    gutenberg_agent_id: '26291'
+    url: http://www.gutenberg.org/2009/agents/26291
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Stefan_Zweig
+    - https://de.wikipedia.org/wiki/Stefan_Zweig
+description: ''
+gutenberg_issued: '2024-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74412'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k946553v
+pgterms:marc905: 20240113233709zweig
+pgterms:marc906: '1928'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bVictor Attinger, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tolstoï
+url: http://www.gutenberg.org/ebooks/74412
