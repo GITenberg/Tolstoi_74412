@@ -8,6 +8,9 @@ contributor:
   - agent_name: Hella, Alzir
     gutenberg_agent_id: '57493'
     url: http://www.gutenberg.org/2009/agents/57493
+covers:
+- cover_type: archival
+  image_path: 74412-h/images/cover.jpg
 creator:
   author:
     agent_name: Zweig, Stefan
@@ -20,6 +23,8 @@ creator:
     - https://en.wikipedia.org/wiki/Stefan_Zweig
     - https://de.wikipedia.org/wiki/Stefan_Zweig
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74412#Tolstoi
 gutenberg_issued: '2024-09-14'
 gutenberg_type: Text
 identifiers:
